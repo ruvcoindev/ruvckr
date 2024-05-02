@@ -158,7 +158,7 @@ type ruvchainArgs struct {
 	wwwroot       string
 }
 
-func getArgs() rvchainArgs {
+func getArgs() ruvchainArgs {
 	genconf := flag.Bool("genconf", false, "print a new config to stdout")
 	useconf := flag.Bool("useconf", false, "read HJSON/JSON config from stdin")
 	useconffile := flag.String("useconffile", "", "read HJSON/JSON config from specified file path")
