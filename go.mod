@@ -5,12 +5,12 @@ go 1.18
 require (
 	github.com/Arceliar/ironwood v0.0.0-20221115123222-ec61cea2f439
 	github.com/Arceliar/phony v0.0.0-20210209235338-dde1a8dca979
-	github.com/ruvcoindev/ruvchain-go v0.4.7
 	github.com/gologme/log v1.2.0
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hjson/hjson-go v3.1.0+incompatible
 	github.com/kardianos/minwinsvc v1.0.2
 	github.com/mitchellh/mapstructure v1.4.1
+	github.com/ruvcoindev/ruvchain-go v0.4.7
 	github.com/vishvananda/netlink v1.1.0
 	golang.org/x/mobile v0.0.0-20230301163155-e0f57694e12c
 	golang.org/x/net v0.7.0

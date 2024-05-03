@@ -4,12 +4,6 @@ github.com/Arceliar/ironwood v0.0.0-20221115123222-ec61cea2f439 h1:eOW6/XIs06TnU
 github.com/Arceliar/ironwood v0.0.0-20221115123222-ec61cea2f439/go.mod h1:RP72rucOFm5udrnEzTmIWLRVGQiV/fSUAQXJ0RST/nk=
 github.com/Arceliar/phony v0.0.0-20210209235338-dde1a8dca979 h1:WndgpSW13S32VLQ3ugUxx2EnnWmgba1kCqPkd4Gk1yQ=
 github.com/Arceliar/phony v0.0.0-20210209235338-dde1a8dca979/go.mod h1:6Lkn+/zJilRMsKmbmG1RPoamiArC6HS73xbwRyp3UyI=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230206192750-4554b99a9968 h1:tjDuJ/pzOtv8X51LiapLzZXBWoaWCf7FnCjNFVDMjvM=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230206192750-4554b99a9968/go.mod h1:8NOrw5zhlCDDn2v9Q2PrBPA0Cl5XHEUbtsmUbnOR3tU=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230208130636-1df79a6f8182 h1:wxFi2EqQTp0pGqZWSnpdCPK6fVeT61qlKtCLsSyrtHk=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230208130636-1df79a6f8182/go.mod h1:8NOrw5zhlCDDn2v9Q2PrBPA0Cl5XHEUbtsmUbnOR3tU=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230227143844-4a01da7a815d h1:PdzXuH6Z/E+v9RkM3g6cpwLyzc4R1SE8gk1tTbSLxRE=
-#github.com/RiV-chain/RiV-mesh v0.4.7-0.20230227143844-4a01da7a815d/go.mod h1:N2+BdswSl54JZ33iS+Cnoi0SzoDSDJmsaQENBP8SNhg=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -67,6 +61,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/rivo/uniseg v0.3.4 h1:3Z3Eu6FGHZWSfNKJTOUiPatWwfc7DzJRU04jFUqJODw=
 github.com/rivo/uniseg v0.3.4/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
+github.com/ruvcoindev/ruvchain-go v0.4.7 h1:UV8nDuz867PSDQKqf+4BEGi8Lx/ti0MrLkSANuOitW8=
+github.com/ruvcoindev/ruvchain-go v0.4.7/go.mod h1:lKyTzGeVb7c95fJB0srH/XNvfzje2Lvl8ApFAdSSopk=
 github.com/slonm/tableprinter v0.0.0-20230107100804-643098716018 h1:HkpfBQEfSVno7l+8Oio1pyHuL5NU2ltcAx+TcsXhtzI=
 github.com/slonm/tableprinter v0.0.0-20230107100804-643098716018/go.mod h1:YmJPt1/lE7S0lGtDQgSIufprvm+agsqx9n7cO6Gq6JQ=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
@@ -100,8 +96,6 @@ golang.org/x/crypto v0.1.0/go.mod h1:RecgLatLF4+eUMCP1PoPZQb+cVrJcOPbHkTkbkB9sbw
 golang.org/x/exp v0.0.0-20221217163422-3c43f8badb15 h1:5oN1Pz/eDhCpbMbLstvIPa0b/BEQo6g6nwV3pLjfM6w=
 golang.org/x/exp v0.0.0-20221217163422-3c43f8badb15/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
 golang.org/x/lint v0.0.0-20190930215403-16217165b5de/go.mod h1:6SW0HCj/g11FgYtHlgUYUwCkIfeOF89ocIRzGO/8vkc=
-golang.org/x/mobile v0.0.0-20221110043201-43a038452099 h1:aIu0lKmfdgtn2uTj7JI2oN4TUrQvgB+wzTPO23bCKt8=
-golang.org/x/mobile v0.0.0-20221110043201-43a038452099/go.mod h1:aAjjkJNdrh3PMckS4B10TGS2nag27cbKR1y2BpUxsiY=
 golang.org/x/mobile v0.0.0-20230301163155-e0f57694e12c h1:Gk61ECugwEHL6IiyyNLXNzmu8XslmRP2dS0xjIYhbb4=
 golang.org/x/mobile v0.0.0-20230301163155-e0f57694e12c/go.mod h1:aAjjkJNdrh3PMckS4B10TGS2nag27cbKR1y2BpUxsiY=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
