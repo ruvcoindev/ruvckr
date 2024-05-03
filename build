@@ -51,7 +51,7 @@ buildbin() {
   fi
 }
 
-build_mesh() {
+build_ruvchain() {
   LDFLAGS2="${STATIC}" buildbin ./cmd/ruvchain
 }
 
